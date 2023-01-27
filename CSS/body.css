@@ -133,7 +133,6 @@ header{
     display: flex;
     flex-flow: column nowrap;
     gap: 35px;
-    /* left: -6%; */
     position: absolute;
 }
 #menuLateral > div{
